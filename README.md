@@ -1,2 +1,3 @@
 # Kali_Configuration
-My personal kali configuration and scripts
+
+My personal kali configuration and scripts.
